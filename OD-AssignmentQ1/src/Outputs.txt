@@ -1,0 +1,48 @@
+-type argument not found
+
+Do you want to enter details of any other item (y/n):NOOO
+123
+Yes
+Y
+Do you want to enter details of any other item (y/n):y
+
+please enter the details with the following argument tags. 
+-name 
+-price 
+-quantity 
+-type 
+in a single line 
+-name Nandan -type raw -price 100
+name = Nandan
+type = raw
+price = 100
+
+Do you want to enter details of any other item (y/n):y
+
+please enter the details with the following argument tags. 
+-name 
+-price 
+-quantity 
+-type 
+in a single line 
+-name Alex -type imported -price 400
+
+name = Alex
+type = imported
+price = 400
+
+Do you want to enter details of any other item (y/n):n
+
+the details of this object are as follows--
+name:Nandan
+price:100.0
+quantity:0
+type:raw
+tax:12.5
+
+the details of this object are as follows--
+name:Alex
+price:400.0
+quantity:0
+type:imported
+tax:260.0
