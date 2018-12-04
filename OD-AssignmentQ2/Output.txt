@@ -1,0 +1,242 @@
+menu 
+1. add user 
+2. display 
+3. delete user details 
+4. save user details 
+5. exit 
+enter your choice 
+
+1
+enter the name 
+Nandan
+enter the age
+21
+enter the address
+Bangalore
+enter the roll number 
+59
+enter the set of four courses from A,B,C,D,E and F only
+enter the course 
+A
+course A has been added successfully 
+enter the course 
+B
+course B has been added successfully 
+enter the course 
+C
+course C has been added successfully 
+enter the course 
+D
+course D has been added successfully 
+menu 
+1. add user 
+2. display 
+3. delete user details 
+4. save user details 
+5. exit 
+enter your choice 
+
+2
+--------------------------------------------------------------
+Name            Roll Number Age   Address              Courses   
+--------------------------------------------------------------
+Nandan          59          21    Bangalore            [A, B, C, D]
+
+
+
+menu 
+1. add user 
+2. display 
+3. delete user details 
+4. save user details 
+5. exit 
+enter your choice 
+
+1
+enter the name 
+Alex
+enter the age
+21
+enter the address
+ITPL
+enter the roll number 
+1
+enter the set of four courses from A,B,C,D,E and F only
+enter the course 
+B
+course B has been added successfully 
+enter the course 
+C
+course C has been added successfully 
+enter the course 
+D
+course D has been added successfully 
+enter the course 
+E
+course E has been added successfully 
+menu 
+1. add user 
+2. display 
+3. delete user details 
+4. save user details 
+5. exit 
+enter your choice 
+
+2
+--------------------------------------------------------------
+Name            Roll Number Age   Address              Courses   
+--------------------------------------------------------------
+Alex            1           21    ITPL                 [B, C, D, E]
+Nandan          59          21    Bangalore            [A, B, C, D]
+
+
+
+menu 
+1. add user 
+2. display 
+3. delete user details 
+4. save user details 
+5. exit 
+enter your choice 
+
+1
+enter the name 
+Alan
+enter the age
+21
+enter the address
+Jaynagar
+enter the roll number 
+2
+enter the set of four courses from A,B,C,D,E and F only
+enter the course 
+A
+course A has been added successfully 
+enter the course 
+B
+course B has been added successfully 
+enter the course 
+C
+course C has been added successfully 
+enter the course 
+E
+course E has been added successfully 
+menu 
+1. add user 
+2. display 
+3. delete user details 
+4. save user details 
+5. exit 
+enter your choice 
+
+2
+--------------------------------------------------------------
+Name            Roll Number Age   Address              Courses   
+--------------------------------------------------------------
+Alan            2           21    Jaynagar             [A, B, C, E]
+Alex            1           21    ITPL                 [B, C, D, E]
+Nandan          59          21    Bangalore            [A, B, C, D]
+
+
+
+menu 
+1. add user 
+2. display 
+3. delete user details 
+4. save user details 
+5. exit 
+enter your choice 
+
+1
+enter the name 
+Alan
+enter the age
+21
+enter the address
+MG Road
+enter the roll number 
+3
+enter the set of four courses from A,B,C,D,E and F only
+enter the course 
+F
+course F has been added successfully 
+enter the course 
+E
+course E has been added successfully 
+enter the course 
+C
+course C has been added successfully 
+enter the course 
+D
+course D has been added successfully 
+menu 
+1. add user 
+2. display 
+3. delete user details 
+4. save user details 
+5. exit 
+enter your choice 
+
+2
+--------------------------------------------------------------
+Name            Roll Number Age   Address              Courses   
+--------------------------------------------------------------
+Alan            2           21    Jaynagar             [A, B, C, E]
+Alan            3           21    MG Road              [F, E, C, D]
+Alex            1           21    ITPL                 [B, C, D, E]
+Nandan          59          21    Bangalore            [A, B, C, D]
+
+
+
+menu 
+1. add user 
+2. display 
+3. delete user details 
+4. save user details 
+5. exit 
+enter your choice 
+
+4
+object has been serialized and stored in the disk
+menu 
+1. add user 
+2. display 
+3. delete user details 
+4. save user details 
+5. exit 
+enter your choice 
+
+3
+enter the user's roll number for deleting that user's details 
+1
+menu 
+1. add user 
+2. display 
+3. delete user details 
+4. save user details 
+5. exit 
+enter your choice 
+
+2
+--------------------------------------------------------------
+Name            Roll Number Age   Address              Courses   
+--------------------------------------------------------------
+Alan            2           21    Jaynagar             [A, B, C, E]
+Alan            3           21    MG Road              [F, E, C, D]
+Nandan          59          21    Bangalore            [A, B, C, D]
+
+
+
+menu 
+1. add user 
+2. display 
+3. delete user details 
+4. save user details 
+5. exit 
+enter your choice 
+
+5
+do you want to store the latest changes to the disk? (y/n)
+n
+details not stored 
+BUILD SUCCESSFUL (total time: 4 minutes 15 seconds)
