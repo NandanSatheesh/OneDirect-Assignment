@@ -1,0 +1,33 @@
+			A,1
+                      -  -   - 
+                     -   -    -          
+                    -    -     -                                          
+                   V     -      V   
+                  B,2    -      C,3                                          
+                         -     -  
+                         -    -                                                                                     -  -   
+                         VV
+                         D,4     
+
+The graph is a directed graph                                                              
+'V' denotes the direction of the arrow head 
+                                      
+Output - 
+node id -> B
+node value -> 2
+node id -> C
+node value -> 3
+node id -> D
+node value -> 4
+node id -> A
+node value -> 1
+node id -> C
+node value -> 3
+[node id -> C
+node value -> 3, node id -> A
+node value -> 1]
+[]
+[node id -> D
+node value -> 4, node id -> C
+node value -> 3, node id -> B
+node value -> 2]
