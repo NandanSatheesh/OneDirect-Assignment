@@ -1,0 +1,45 @@
+records from the database 
+the details of this object are as follows--
+name:Keyboard
+price:123.0
+quantity:5
+type:raw
+tax:0.0
+
+the details of this object are as follows--
+name:Mouse
+price:553.0
+quantity:4
+type:manufactured
+tax:0.0
+
+the details of this object are as follows--
+name:Laptops
+price:1120.0
+quantity:5
+type:imported
+tax:0.0
+
+object has been serialized and stored in the disk
+Object has been deserialized.
+calculating tax..
+the details of this object are as follows--
+name:Keyboard
+price:123.0
+quantity:5
+type:raw
+tax:15.375
+
+the details of this object are as follows--
+name:Mouse
+price:553.0
+quantity:4
+type:manufactured
+tax:81.5675
+
+the details of this object are as follows--
+name:Laptops
+price:1120.0
+quantity:5
+type:imported
+tax:728.0
